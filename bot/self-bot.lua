@@ -224,10 +224,9 @@ function create_config( )
     "savefile",
     "groupmanager",
     "on-off",
-    "version",
-    "mamad"
+    "erfan",
     },
-    sudo_users = {226503370},--Sudo users
+    sudo_users = {250672021},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
